@@ -6,3 +6,8 @@ TRIAGE LEVELS:
 🟡 SEMI-URGENT - Doctor within 24 hours
 🟢 NON-URGENT - Routine appointment
 🔵 SELF-CARE - Home treatment
+
+
+<img width="960" height="420" alt="image" src="https://github.com/user-attachments/assets/3d6b53bb-dd87-47e1-bd89-bf70531078ad" />
+
+<img width="960" height="420" alt="image" src="https://github.com/user-attachments/assets/3ba81567-aff0-45b9-92a0-47ed87af2624" />
